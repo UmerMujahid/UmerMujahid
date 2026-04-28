@@ -4,12 +4,6 @@
 
 ### Full Stack Developer · AI/ML Engineer · CS Student @ FAST-NUCES Lahore
 
-<img src="https://komarev.com/ghpvc/?username=umermujahid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-&nbsp;
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=umermujahid&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
-</a>
-
 </div>
 
 ---
@@ -28,13 +22,13 @@ status      : Open to internships and collaborations
 
 ## 🔧 What I'm Up To
 
-- 🔭 &nbsp;Currently working on **HireX — AI-powered full-stack recruitment platform**
+- 🔭 &nbsp;Currently working on **Blood-Trace — a full-stack blood donor locator platform**
 - 👯 &nbsp;Looking to collaborate on **MERN stack web apps and NLP / ML projects**
 - 🤝 &nbsp;Looking for help with **scaling AI models for production deployment**
 - 🌱 &nbsp;Currently learning **advanced NLP techniques and full-stack system design**
 - 💬 &nbsp;Ask me about **React, Node.js, Python, BioBERT, and building real-world web apps**
 - 📫 &nbsp;Reach me at **umermujahid4738@gmail.com**
-- ⚡ &nbsp;Fun fact **I fine-tuned BioBERT to 97.6% accuracy for clinical disease risk — as a uni student. Also surviving FAST-NUCES.**
+- ⚡ &nbsp;Fun fact **I am also currently surviving at FAST NUCES with all this.**
 
 ---
 
@@ -86,6 +80,7 @@ status      : Open to internships and collaborations
 
 ## 🏆 Featured Projects
 
+
 | Project | Stack | Link |
 |---------|-------|------|
 | 🧬 **NLP Clinical Inheritance Patterns** | Python · BioBERT · TensorFlow · PyTorch · Scikit-learn | [GitHub](https://github.com/UmerMujahid) |
@@ -121,6 +116,29 @@ status      : Open to internships and collaborations
 
 ---
 
+## 📈 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmerMujahid&theme=tokyonight" />
+</p>
+
+---
+
+## 🥇 Trophies
+
 <div align="center">
-  <i>⚡ "Build things. Break things. Learn fast." ⚡</i>
+
+<img src="https://github-profile-trophy.vercel.app/?username=umermujahid&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=umermujahid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+
+<br/><br/>
+<i>⚡ "Build. Break. Survive." ⚡</i>
+
 </div>
