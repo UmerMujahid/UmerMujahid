@@ -13,7 +13,7 @@
 ```yaml
 name        : Umer Mujahid
 location    : Lahore, Punjab, Pakistan
-education   : BS Computer Science @ FAST-NUCES (CGPA: 3.62)
+education   : BS Computer Science @ FAST-NUCES
 focus       : Full Stack Development (MERN) + AI/ML & NLP
 status      : Open to internships and collaborations
 ```
