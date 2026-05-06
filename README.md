@@ -85,7 +85,7 @@ status      : Open to internships and collaborations
 |---------|-------|------|
 | 🧬 **NLP Clinical Inheritance Patterns** | Python · BioBERT · TensorFlow · PyTorch · Scikit-learn | [GitHub](https://github.com/UmerMujahid) |
 | 💼 **HireX — AI Recruitment Platform** | React · Django · Python · AI Resume Ranking | [GitHub](https://github.com/UmerMujahid) |
-| 🩸 **Blood Trace — Donor Locator** | MERN · Leaflet.js | [Live](https://blood-trace-frontend.vercel.app/) |
+| 🩸 **Blood Trace — Donor Locator** | MERN · Leaflet.js | [Live](https://blood-trace.vercel.app/) |
 | 🏬 **Mall Management System** | MERN · SQL Server · Redux · MUI | [GitHub](https://github.com/UmerMujahid) |
 
 ---
@@ -94,8 +94,6 @@ status      : Open to internships and collaborations
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umermujahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats" />
-&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umermujahid&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs" />
 
 </div>
@@ -139,6 +137,6 @@ status      : Open to internships and collaborations
 <img src="https://komarev.com/ghpvc/?username=umermujahid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 
 <br/><br/>
-<i>⚡ "Build. Break. Survive." ⚡</i>
+<i>⚡ "Build. Break. Rebuild" ⚡</i>
 
 </div>
