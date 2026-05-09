@@ -91,12 +91,11 @@ status      : Open to internships and collaborations
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=UmerMujahid&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=umermujahid&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs" />
-
-</div>
+<div/>
 
 ---
 
