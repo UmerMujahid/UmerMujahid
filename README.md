@@ -14,7 +14,7 @@
 name        : Umer Mujahid
 location    : Lahore, Punjab, Pakistan
 education   : BS Computer Science @ FAST-NUCES
-focus       : Full Stack Development (MERN) + AI/ML & NLP
+focus       : AI/ML Backend + Full Stack Development
 status      : Open to internships and collaborations
 ```
 
@@ -22,7 +22,7 @@ status      : Open to internships and collaborations
 
 ## 🔧 What I'm Up To
 
-- 🔭 &nbsp;Currently working on **Blood-Trace — a full-stack blood donor locator platform**
+- 🔭 &nbsp;Currently finished **Blood-Trace — a full-stack blood donor locator platform**
 - 👯 &nbsp;Looking to collaborate on **MERN stack web apps and NLP / ML projects**
 - 🤝 &nbsp;Looking for help with **scaling AI models for production deployment**
 - 🌱 &nbsp;Currently learning **advanced NLP techniques and full-stack system design**
