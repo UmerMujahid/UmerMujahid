@@ -22,7 +22,7 @@ status      : Open to internships and collaborations
 
 ## 🔧 What I'm Up To
 
-- 🔭 &nbsp;Currently finished **Blood-Trace — a full-stack blood donor locator platform**
+- 🔭 &nbsp;Currently working on **AI Powered Employee OS**
 - 👯 &nbsp;Looking to collaborate on **MERN stack web apps and NLP / ML projects**
 - 🤝 &nbsp;Looking for help with **scaling AI models for production deployment**
 - 🌱 &nbsp;Currently learning **advanced NLP techniques and full-stack system design**
