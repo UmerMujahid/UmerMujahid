@@ -4,6 +4,8 @@
 
 ### Full Stack Developer · AI/ML Engineer · CS Student @ FAST-NUCES Lahore
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+Scalable+Applications;Always+Learning+New+Technologies;Open+Source+Contributor" />
+
 </div>
 
 ---
@@ -93,9 +95,13 @@ status      : Open to internships and collaborations
 ## 📊 GitHub Stats
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=UmerMujahid&theme=tokyonight)
+  </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=UmerMujahid&theme=tokyonight&hide_border=true"/> </div>
 
 <div/>
+
+# 📈 Contribution Graph
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmerMujahid&theme=tokyo-night&hide_border=true"/> </div>
 
 ---
 
@@ -110,26 +116,6 @@ status      : Open to internships and collaborations
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/845603632463872041)
 
 </div>
-
----
-
-## 📈 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmerMujahid&theme=tokyonight" />
-</p>
-
----
-
-## 🥇 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=umermujahid&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-
-</div>
-
----
 
 <div align="center">
 
